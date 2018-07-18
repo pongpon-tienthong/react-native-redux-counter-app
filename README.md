@@ -3,6 +3,6 @@
 
 
 #### Preview
-![Alt text](https://github.com/pongpon-tienthong/react-native-redux-counter-app/blob/master/ios.png?raw=true)
+![Alt text](https://github.com/pongpon-tienthong/react-native-redux-counter-app/blob/master/ios.png?raw=true | width=100)
 
-![Alt text](https://github.com/pongpon-tienthong/react-native-redux-counter-app/blob/master/android.png?raw=true)
+![Alt text](https://github.com/pongpon-tienthong/react-native-redux-counter-app/blob/master/android.png?raw=true | width=100)
